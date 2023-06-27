@@ -1,4 +1,4 @@
-# 🔥🔥 Flutter Traveler's Social App  [![Twitter Follow](https://img.shields.io/twitter/follow/CharlyKeleb.svg?style=social)](https://twitter.com/CharlyKeleb)
+# 🔥🔥 Flutter Traveler's Social App  
 Flutter representation of the Traveler's Social App  found on dribbble.
 
 Star⭐ the repo if you like what you see😉.
@@ -30,9 +30,6 @@ To toggle the theme, change the `theme` variable in `main.dart`.
 
 
 
-
-## 🤓 Author(s)
-**Charly Keleb Charles042** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
 
 
 
